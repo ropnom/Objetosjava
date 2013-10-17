@@ -12,6 +12,6 @@ He intentado ejecutarlo por consola desde maven pero tengo algun error en la sin
 edu.upc.eetac.dsa.rodrigo.sampedro.objetosjava.Objetosjava      App.java
 
 -hacer maven build 
--ejecutar .jar generado  /target/clasesesencialesi.jar  main App.java
+-ejecutar .jar generado  /target/objetosjava.jar  main App.java
 
 
